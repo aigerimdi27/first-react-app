@@ -1,0 +1,11 @@
+.card {
+    width: 570px;
+    height: 278px;
+    display: flex;
+    background-color:  #f2f3f5;
+    &__img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+    }
+}
